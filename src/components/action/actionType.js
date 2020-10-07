@@ -1,0 +1,9 @@
+export const GET_ALL_CONTACTS = "GET_ALL_CONTACTS";
+export const CREATE_NEW_CONTACT = "CREATE_NEW_CONTACT";
+export const REMOVE_CONTACT = "REMOVE_CONTACT";
+
+export const GET_ALL_USERS = "GET_ALL_USERS";
+export const ADD_NEW_USERS = "ADD_NEW_USERS";
+export const GET_NEW_USER ="GET_NEW_USER";
+export const CREATE_NEW_USERS = "CREATE_NEW_USERS";
+export const REMOVE_USER = "REMOVE_USER";
